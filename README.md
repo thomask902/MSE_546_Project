@@ -1,5 +1,6 @@
 # MSE_546_Project
 MSE 546: Advanced Machine Learning, Group term project
+
 Elize Kooji, Mateo Alvarez, Ria Narang, Thomas Kleinknect, Matthew Erxleben
 
 Identifying and discovering new animals in ocean imagery data, utilizing machine learning and deep learning

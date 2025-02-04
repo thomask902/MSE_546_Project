@@ -1,2 +1,6 @@
 fathomnet-out-of-sample-detection
 fathomnet-venv
+*.env
+*.csv
+myenv
+kaggle_files/images/

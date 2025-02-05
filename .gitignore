@@ -4,3 +4,12 @@ fathomnet-venv
 *.csv
 myenv
 kaggle_files/images/
+data
+models
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/

@@ -3,4 +3,5 @@ fathomnet-venv
 *.env
 *.csv
 myenv
-kaggle_files/images/
+data
+models
